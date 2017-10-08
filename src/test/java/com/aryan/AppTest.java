@@ -1,4 +1,4 @@
-package com.boot;
+package com.aryan;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
